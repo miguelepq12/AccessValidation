@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AccessValidation.iml" filepath="$PROJECT_DIR$/.idea/AccessValidation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../WorkerPlace/.idea/WorkerPlace.iml" filepath="$PROJECT_DIR$/../WorkerPlace/.idea/WorkerPlace.iml" />
     </modules>
   </component>
 </project>
